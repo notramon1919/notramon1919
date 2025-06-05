@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning AI nad Big Data technologies<br/>
+🌱 I’m currently learning AI and Big Data technologies<br/>
 🤖 Interested in newest LLMs models<br/>
 
 
