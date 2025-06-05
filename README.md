@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-🌱 I’m currently learning AI nad Big Data technologies
-🤖 Interested in newest LLMs models
+🌱 I’m currently learning AI nad Big Data technologies<br/>
+🤖 Interested in newest LLMs models<br/>
 
 
 ## 🌐 Socials:
@@ -13,15 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=notramon1919&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=notramon1919&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notramon1919&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=notramon1919&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=notramon1919&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=notramon1919&icon=1&color=3)](https://visitcount.itsvg.in)
